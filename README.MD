@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Nadhiyaa Mohan!
 
-![Profile Banner](https://user-images.githubusercontent.com/your-banner-image.png) <!-- (Optional: Replace with your own banner image URL) -->
+
 
 ## 👩‍💻 About Me
 
